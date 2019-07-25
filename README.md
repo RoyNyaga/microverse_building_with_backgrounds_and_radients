@@ -13,4 +13,5 @@ This is a microver project. Click to know more about [Microverse](https://www.mi
 * [Nyaga Andre Roy](https://github.com/RoyNyaga)
 
 #### Contact
-* [Web](https://bolabuari.com/)  -  [Twitter](https://twitter.com/bolah2009)  -  [GitHub](https://github.com/bolah2009/)  -  [GitLab](https://gitlab.com/bolah2009/)  -  [LinkedIn](https://www.linkedin.com/in/bolah2009/)
+* +237 672272775
+* nyagaandrerroy@gmail.com
