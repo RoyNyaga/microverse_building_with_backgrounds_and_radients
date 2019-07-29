@@ -1,6 +1,6 @@
-## Project: HTML & CSS3: Building with Backgrounds and Gradients ([Apple.com clone](https://web.archive.org/web/20140301004610/http://www.apple.com/))
+## Project: HTML & CSS3: Building with Backgrounds and Gradients ([Apple.com clone](https://web.archive.org/web/20140301004610/http://www.apple.com/)).
 
-This is a microver project. Click to know more about [Microverse](https://www.microverse.org/)
+This is a microver project. Click to know more about [Microverse](https://www.microverse.org/).
 * The purpose of this project is to exercise on Backgrounds and Gradients.
 * Technology used are html and css. 
 
