@@ -13,5 +13,6 @@ This is a microver project. Click to know more about [Microverse](https://www.mi
 * [Nyaga Andre Roy](https://github.com/RoyNyaga)
 
 #### Contact
-* +237 672272775
+* +237 671172775
 * nyagaandrerroy@gmail.com
+
